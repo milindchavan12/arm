@@ -8,3 +8,5 @@ ARM also gives us very fine grained control over who can access our resources an
 
 ### ARM Architecture
 ![alt text](https://pbs.twimg.com/media/DgPXKqAX4AAObhG.jpg)
+
+Github : https://github.com/jamesbannan/pluralsight/tree/master/microsoft-azure-resource-manager-mastering
